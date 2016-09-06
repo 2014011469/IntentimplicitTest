@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentimplicitTest</string>
+    <string name="title_activity_another_acitivity">AnotherAcitivity</string>
+</resources>
